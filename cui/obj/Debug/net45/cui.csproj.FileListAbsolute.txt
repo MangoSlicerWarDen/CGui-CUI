@@ -1,0 +1,7 @@
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\net45\cui.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\net45\cui.pdb
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\net45\cui.csprojAssemblyReference.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\net45\cui.AssemblyInfoInputs.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\net45\cui.AssemblyInfo.cs
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\net45\cui.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\net45\cui.pdb

@@ -1,0 +1,14 @@
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.exe
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.deps.json
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.runtimeconfig.json
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.runtimeconfig.dev.json
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.Test.pdb
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\bin\Debug\netcoreapp3.0\cui.pdb
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.csprojAssemblyReference.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.AssemblyInfoInputs.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.AssemblyInfo.cs
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.csproj.CopyComplete
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui.Test\obj\Debug\netcoreapp3.0\cui.Test.pdb

@@ -1,0 +1,8 @@
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\netstandard2.1\cui.deps.json
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\netstandard2.1\cui.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\netstandard2.1\cui.pdb
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\netstandard2.1\cui.csprojAssemblyReference.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\netstandard2.1\cui.AssemblyInfoInputs.cache
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\netstandard2.1\cui.AssemblyInfo.cs
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\netstandard2.1\cui.dll
+C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\obj\Debug\netstandard2.1\cui.pdb

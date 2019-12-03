@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>xsilent007.cui</id>
+    <version>1.2.0</version>
+    <title>cui - The menu-based console UI library</title>
+    <authors>xsilent007</authors>
+    <owners>xsilent007</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/xsilent007/cui/tree/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/xsilent007/cui</projectUrl>
+    <description>A console UI library.</description>
+    <repository type="Git" url="https://github.com/xsilent007/cui" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Microsoft.NETFramework.ReferenceAssemblies" version="1.0.0-preview.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETFramework.ReferenceAssemblies" version="1.0.0-preview.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.NETFramework.ReferenceAssemblies" version="1.0.0-preview.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\net45\cui.dll" target="lib\net45\cui.dll" />
+    <file src="C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\netcoreapp2.1\cui.dll" target="lib\netcoreapp2.1\cui.dll" />
+    <file src="C:\Users\Luis Harari Nikitina\Downloads\CGUI\cui-master\cui\bin\Debug\netstandard2.1\cui.dll" target="lib\netstandard2.1\cui.dll" />
+  </files>
+</package>

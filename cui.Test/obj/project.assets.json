@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.NETFramework.ReferenceAssemblies/1.0.0-preview.2": {
+        "type": "package"
+      },
+      "xsilent007.cui/1.2.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETFramework.ReferenceAssemblies": "1.0.0-preview.2"
+        },
+        "compile": {
+          "bin/placeholder/xsilent007.cui.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/xsilent007.cui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETFramework.ReferenceAssemblies/1.0.0-preview.2": {
+      "sha512": "m+pJPEO7HyXvrOna5Sr3s77ewXonjYWJTNL6drh8xACnMNxnlqUDKx9HfGeSE9wmfY0lQwppaeZpFTPGaH7kZg==",
+      "type": "package",
+      "path": "microsoft.netframework.referenceassemblies/1.0.0-preview.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "microsoft.netframework.referenceassemblies.1.0.0-preview.2.nupkg.sha512",
+        "microsoft.netframework.referenceassemblies.nuspec"
+      ]
+    },
+    "xsilent007.cui/1.2.0": {
+      "type": "project",
+      "path": "../cui/cui.csproj",
+      "msbuildProject": "../cui/cui.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "xsilent007.cui >= 1.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Luis Harari Nikitina\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Luis Harari Nikitina\\Downloads\\CGUI\\cui-master\\cui.Test\\cui.Test.csproj",
+      "projectName": "cui.Test",
+      "projectPath": "C:\\Users\\Luis Harari Nikitina\\Downloads\\CGUI\\cui-master\\cui.Test\\cui.Test.csproj",
+      "packagesPath": "C:\\Users\\Luis Harari Nikitina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luis Harari Nikitina\\Downloads\\CGUI\\cui-master\\cui.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Luis Harari Nikitina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Luis Harari Nikitina\\Downloads\\CGUI\\cui-master\\cui\\cui.csproj": {
+              "projectPath": "C:\\Users\\Luis Harari Nikitina\\Downloads\\CGUI\\cui-master\\cui\\cui.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
